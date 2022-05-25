@@ -1,2 +1,2 @@
 # wallyFURnix
- A single webpage for a furniture company
+ A single webpage for a furniture company. desktop screen only
